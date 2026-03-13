@@ -24,3 +24,10 @@
 Single Activity + Navigation Compose.
 
 UI построен на Jetpack Compose.
+
+## Screenshots
+
+![Welcome](screenshots/welcome.png)
+![Phone](screenshots/phone.png)
+![Code](screenshots/code.png)
+![Register](screenshots/register.png)
