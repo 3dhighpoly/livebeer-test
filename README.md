@@ -27,7 +27,9 @@ UI построен на Jetpack Compose.
 
 ## Screenshots
 
-![Welcome](screenshots/welcome.png)
-![Phone](screenshots/phone.png)
-![Code](screenshots/code.png)
-![Register](screenshots/register.png)
+<p align="center">
+  <img src="screenshots/welcome.png" width="200"/>
+  <img src="screenshots/phone.png" width="200"/>
+  <img src="screenshots/code.png" width="200"/>
+  <img src="screenshots/register.png" width="200"/>
+</p>
